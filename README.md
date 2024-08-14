@@ -34,7 +34,7 @@
 </i>
 <br />
 
-## Projeto 💻
+## Projetos 💻
 
 [👨‍💻 Meu Perfil Web ](https://davi-bm.github.io/Projeto-Meu-Perfil-Web/)<br> 
 [🏦💵 Banco Digital Java ](https://github.com/Davi-bm/lab-banco-digital-oo/)<br>
