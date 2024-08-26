@@ -3,10 +3,11 @@
   <img align="center" alt="Davi-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Davi-ORACLE" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 </div>
 
 <h1> 
-  <a href="https://www.linkedin.com/in/davi-battigaglia-messias-80b266258/" style="color: #084B8A !important; text-decoration: none; color: inherit;">
+  <a href="https://www.linkedin.com/in/davi-battigaglia-messias-80b266258/" style="color: #e1f2f7 !important; text-decoration: none; color: inherit;">
     <span>Davi Battigaglia Messias</span>
   </a>
 </h1>
@@ -14,11 +15,12 @@
 #### Futuro Desenvolvedor Java | Técnico em Secretariado
 <i>(Ribeirão Preto/SP - Brasil)</i>
 
-[![Perfil DIO](https://img.shields.io/badge/-DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=MidnightBlue)]([https://www.dio.me/users/davibmessias11])
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=MidnightBlue)](https://www.linkedin.com/in/davi-battigaglia-messias-80b266258/)
-[![E-mail](https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=MidnightBlue)](mailto:davibmessias11@outlook.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=MidnightBlue)](https://wa.me/55+16+981411724)  
-[![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=MidnightBlue)](https://github.com/Davi-bm)
+[![Perfil DIO](https://img.shields.io/badge/-DIO-6c4d75?style=for-the-badge&logo=gitbook&logoColor=white)]([https://www.dio.me/users/davibmessias11])
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=MidnightBlue)](https://www.linkedin.com/in/davi-battigaglia-messias-80b266258/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davi.b.m/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davibmessias11@outlook.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-4f8f39?style=for-the-badge&logo=whatsapp&logoColor=green)](https://wa.me/55+16+981411724)  
+[![GitHub](https://img.shields.io/badge/GitHub-322e33?style=for-the-badge&logo=github&logoColor=MidnightBlue)](https://github.com/Davi-bm)
 <br />
 <br />
 
