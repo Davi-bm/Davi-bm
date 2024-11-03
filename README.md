@@ -40,4 +40,5 @@
 
 [👨‍💻 Meu Perfil Web ](https://davi-bm.github.io/Projeto-Meu-Perfil-Web/)<br> 
 [🏦💵 Banco Digital Java ](https://github.com/Davi-bm/lab-banco-digital-oo/)<br>
+[🕹🎰 Jogo do Número Secreto ](https://github.com/Davi-bm/Projeto-Jogo-Secreto-JS)<br>
 
