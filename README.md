@@ -28,7 +28,7 @@
 <i>
 <br />
 
-> Meu nome é Davi Battigaglia Messias, tenho 19 anos e estou buscando entrar na área de T.I, pois me interesso bastante. Sendo assim, gosto de programar, gerenciar projetos e compreender melhor os conceitos que englobam esse universo tecnológico magnífico e brilhante. 
+> Meu nome é Davi Battigaglia Messias, tenho 20 anos e estou buscando entrar na área de T.I, pois me interesso bastante. Sendo assim, gosto de programar, gerenciar projetos e compreender melhor os conceitos que englobam esse universo tecnológico magnífico e brilhante. 
 >
 > Assim, já conclui o Ensino Médio no E.E Professor João Augusto de Mello e o Curso Técnico em Secretariado na ETEC José Martimiano da Silva, e agora estou cursando Análise e Desenvolvimento de Sistemas (Tecnólogo) no Moura Lacerda no período noturno com a duração de 2 anos e meio. 
 > Logo, possuo várias competências conforme citadas posteriormente, mas além delas pretendo desenvolver sempre novas habilidades para me qualificar de acordo com o que o mercado de trabalho atual necessita.
