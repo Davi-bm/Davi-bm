@@ -14,7 +14,7 @@
   </a>
 </h1>
 
-#### Analista | Desenvolvedor | Trailhead Salesforce
+#### Analista de Infraestrutura de TI | Analista de Sistemas | Desenvolvedor 
 <i>(Ribeirão Preto/SP - Brasil)</i>
 
 [![Perfil DIO](https://img.shields.io/badge/-DIO-6c4d75?style=for-the-badge&logo=gitbook&logoColor=white)]([https://www.dio.me/users/davibmessias11])
@@ -31,10 +31,10 @@
 <i>
 <br />
 
-> Meu nome é Davi Battigaglia Messias, tenho 20 anos e atualmente curso o quarto semestre de Análise e Desenvolvimento de Sistemas. Estou em busca de uma oportunidade para aplicar meus conhecimentos, crescer profissionalmente e contribuir com dedicação e entusiasmo para os desafios da área de tecnologia.
+> Meu nome é Davi Battigaglia Messias, tenho 20 anos e atualmente curso o quinto semestre de Análise e Desenvolvimento de Sistemas e desempenho a função de estagiário em Análise de Infraestrutura de TI. Logo, possuo conhecimentos em Java, SQL, Redes de Computadores, Suporte Técnico e Análise de Sistemas, os quais venho consolidando por meio da prática acadêmica e profissional.
 >
-> Assim, já conclui o Ensino Médio no E.E Professor João Augusto de Mello e o Curso Técnico em Secretariado na ETEC José Martimiano da Silva, e agora estou cursando Análise e Desenvolvimento de Sistemas (Tecnólogo) no Moura Lacerda no período noturno com a duração de 2 anos e meio. 
-> Logo, possuo várias competências conforme citadas posteriormente, mas além delas pretendo desenvolver sempre novas habilidades para me qualificar de acordo com o que o mercado de trabalho atual necessita.
+> Então, tenho como objetivo desenvolver e progredir em minha carreira na área de tecnologia, com ênfase em desenvolvimento de software e gestão de infraestrutura. Além disso, busco contribuir de forma responsável, proativa e dedicada para o sucesso dos projetos em que estiver inserido, ao mesmo tempo em que amplio continuamente minhas competências técnicas e profissionais.
+>
 <br />
 </i>
 <br />
